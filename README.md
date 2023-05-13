@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="right" height="300px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"></p>
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture>
 
 
 
