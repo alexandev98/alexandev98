@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Software Developer from Ecuador </h3>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="alexandev98" /></p>
 
 
 
