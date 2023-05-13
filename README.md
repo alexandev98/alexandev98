@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-</p
+</p>
   
 <p align="left">
 &nbsp;About Me
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 </p
-
+<p align="left">
 <picture><img align="right" height="300px" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"></picture>
-
+</p>
 
 
 
