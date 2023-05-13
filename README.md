@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Marcelo</a></h1>
-<h3 align="center">A passionate Software Developer from Ecuador &#127470;&#127475</h3>
+<h3 align="center">A passionate Software Developer from Ecuador </h3>
