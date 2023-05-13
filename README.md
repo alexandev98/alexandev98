@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://alexandev98.github.io/Me.io/" target="blank">Marcelo</a></h1>
+<h1 align="center">Hi there 👋, I'm Marcelo</a></h1>
 <h3 align="center">A passionate Software Developer from Ecuador &#127470;&#127475</h3>
