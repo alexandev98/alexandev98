@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marcelo</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marcelo</h1>
 <h3 align="center">Network Engineer | Software Developer Enthusiast</h3>
 <p align="center">
   <em>
-    So nice to meet you, Marcelo Carvajal, a graduate from <a href="https://www.epn.edu.ec/"> <b> Escuela Politécnica Nacional</b>, Quito - Ecuador</a>. <br>
+    So nice to meet you!, Marcelo Carvajal, a graduate from <a href="https://www.epn.edu.ec/"> <b> Escuela Politécnica Nacional</b>, Quito - Ecuador</a>. <br>
     A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
