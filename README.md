@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Marcelo</h1>
-<h3 align="center">Network Engineer | Software Developer Enthusiast</h3>
+<h3 align="center">Electronic and Information Network Engineer | Software Developer Enthusiast</h3>
 <p align="center">
   <em>
     So nice to meet you!, Marcelo, a graduated from <a href="https://www.epn.edu.ec/"> <b> Escuela Politécnica Nacional</b>, Quito - Ecuador</a>. <br>
